@@ -44,7 +44,7 @@ class SecondScreen extends StatelessWidget {
                     SizedBox(height: 30,),
                     NewWidget(name: " Name",),
                     SizedBox(height: 30,),
-                    NewWidget2(password: "Password",),
+                    NewWidget2(password: "password",),
                    
                     SizedBox(height: 50,),
                    
